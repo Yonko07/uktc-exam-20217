@@ -1,1 +1,3 @@
-# uktc-exam-20X
+# uktc-exam-20217
+-Ime: Vasheto Ime
+-Kursov nomer: 20217
